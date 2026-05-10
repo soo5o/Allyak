@@ -4,14 +4,11 @@
   https://www.youtube.com/watch?v=DMTMVEtwKtQ
   
 * **앱 실행 화면**
-  
-  ![Group 1](https://github.com/user-attachments/assets/15d63eb6-ecf6-40a8-bec4-508686aae8bc)
+  <img width="963" height="498" alt="image" src="https://github.com/user-attachments/assets/dccd3ff0-6f4a-4fc9-b6d4-8adb44c10c74" />
 
 * **DB구조**
-  
-![image](https://github.com/soo5o/Allyak/assets/90204622/a3a1dbe9-e59b-4ceb-bf54-90158f104ca0)
+<img width="831" height="408" alt="image" src="https://github.com/user-attachments/assets/c50134b1-cd8a-4e0a-aefe-e09d2c2bad80" />
 
 
 * **시스템 구성도**
-
-  ![Group 1 (1)](https://github.com/soo5o/Allyak/assets/90204622/c131cee8-c2f1-4a2a-8c7a-f7b79551b194)
+<img width="847" height="458" alt="image" src="https://github.com/user-attachments/assets/9b7644c1-e4d1-43a8-8cc0-0551bda30a74" />
